@@ -10,21 +10,19 @@
 ############################
 
 # Name of website
-title: My Website
+title: Yeyego
 
 # Your name to show in the footer
-author: Some Person
+author: Yeyego
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Aplikacja Inspe: 
+   - Adwokat: "inspe/adwokat/page"
+   - Radca: "inspe/adwokat/page"
 
 ################
 # --- Logo --- #
@@ -52,11 +50,8 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: yeyego
+  youtube: yeyego
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -96,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "yeyego.pl"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
