@@ -17,4 +17,4 @@ What else do you need?
 
 ### Regulamin
 
-[Regulamin]({{ site.baseurl }}/inspe/adwokat/regulations)
+[Regulamin]({{ site.baseurl }}/inspe/adwokat/terms-and-conditions)
