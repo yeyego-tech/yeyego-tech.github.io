@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Yeyego
+title: yeyego
 
 # Your name to show in the footer
-author: Yeyego
+author: yeyego
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,7 +22,7 @@ author: Yeyego
 navbar-links:
   Aplikacja Inspe: 
    - Adwokat: "inspe/adwokat/page"
-   - Radca: "inspe/adwokat/page"
+   - Radca: "inspe/radca/page"
 
 ################
 # --- Logo --- #
@@ -48,17 +48,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: yeyego
-  youtube: yeyego
+  email: "yeyego.inspe@gmail.com"
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: yeyegopl
+  # youtube: yeyego
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: yeyegopl
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: yeyegopl
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78

@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Inspe radca prawny
-subtitle: Why you'd want to go on a date with me
+title: "Inspe: Radca"
+subtitle: Aplikacja mobilna cdn
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Polityka prywatności
 
-What else do you need?
+[Polityka prywatności]({{ site.baseurl }}/inspe/radca/privacy-policy)
 
-### My story
+### Regulamin
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[Regulamin]({{ site.baseurl }}/inspe/radca/terms-and-conditions)
