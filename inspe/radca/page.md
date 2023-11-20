@@ -12,3 +12,7 @@ subtitle: Aplikacja mobilna cdn
 ### Regulamin
 
 [Regulamin]({{ site.baseurl }}/inspe/radca/terms-and-conditions)
+
+### Wsparcie
+
+[Wsparcie]({{ site.baseurl }}/inspe/radca/support)

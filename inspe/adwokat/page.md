@@ -12,3 +12,7 @@ subtitle: Aplikacja mobilna cdn
 ### Regulamin
 
 [Regulamin]({{ site.baseurl }}/inspe/adwokat/terms-and-conditions)
+
+### Wsparcie
+
+[Wsparcie]({{ site.baseurl }}/inspe/adwokat/support)
