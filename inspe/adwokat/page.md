@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Inspe: Adwokat"
-subtitle: Aplikacja mobilna cdn
+subtitle: Aplikacja mobilna
 ---
 
 

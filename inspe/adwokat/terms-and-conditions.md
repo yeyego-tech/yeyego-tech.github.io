@@ -12,11 +12,11 @@ ROZDZIAŁ I. POSTANOWIENIA OGÓLNE
 Niniejszy Regulamin określa ogólne warunki korzystania z Usług dostarczanych za pośrednictwem Platformy Inspe, obejmującej Aplikację oraz Stronę internetową. 
 Definicje stosowane w Regulaminie:
 Aplikacja – aplikacja mobilna Inspe: Adwokat lub Inspe: Radca dostępna w sklepach Google Play oraz AppStore. 
-Platforma – platforma umożliwiająca świadczenie usług udostępnianych przez Inspe za pośrednictwem [strony internetowej]({{ site.baseurl }}) oraz za pośrednictwem Aplikacji. Szczegółowe informacje dotyczące Platformy i jej funkcji znajdują się również pod adresem: 
+Platforma – platforma umożliwiająca świadczenie usług udostępnianych przez Inspe za pośrednictwem [strony internetowej](https://yeyego.pl) oraz za pośrednictwem Aplikacji. Szczegółowe informacje dotyczące Platformy i jej funkcji znajdują się również pod adresem: 
 Polityka Prywatności – regulamin określający zasady i warunki przetwarzania przez Inspe danych osobowych Użytkownika, dostępny [adresem.]({{ site.baseurl }}/inspe/adwokat/privacy-policy)
 Inspe – Operator Platformy, której właścicielem jest Mateusz Tomaszewski.
 Regulamin – niniejszy regulamin. Dokument ten stanowi jednocześnie regulamin świadczenia usług drogą elektroniczną, o którym mowa w art. 8 ust. 1 pkt 1 ustawy o świadczeniu usług drogą elektroniczną z 18 lipca 2002 r.
-Strona internetowa – strona internetowa Platformy dostępna pod [adresem]({{ site.baseurl }}) 
+Strona internetowa – strona internetowa Platformy dostępna pod [adresem.](https://yeyego.pl)
 Usługi – usługi świadczone lub udostępniane przez Inspe z wykorzystaniem Platformy. Usługi te wskazano w rozdziale II Regulaminu.
 Użytkownik – osoba fizyczna, osoba prawna oraz osoba nieposiadająca osobowości prawnej, której ustawa przyznaje zdolność prawną, korzystająca z Platformy i/lub usług świadczonych za jej pośrednictwem.
 Wymagania techniczne – minimalne wymagania techniczne umożliwiające korzystanie z Platformy:
