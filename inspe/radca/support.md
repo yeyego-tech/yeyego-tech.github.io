@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Inspe: Radca - Wsparcie"
-subtitle: Aplikacja mobilna cdn
+title: "Inspe: Radca"
+subtitle: Wsparcie
 ---
 
-
-### Support
+W sprawach wymagających wspracia prosimy o kontaktowanie się na e-mail: yeyego.inspe@gmail.com
