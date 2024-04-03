@@ -1,0 +1,118 @@
+{
+    "title": "The Evolution of Automotive Industry",
+    "text": [
+        "The automotive industry has undergone a remarkable evolution since the invention of the automobile in the late 19th century. From the introduction of the first gasoline-powered vehicle to the development of electric and autonomous cars, the history of motoring reflects technological advancements, societal changes, and economic trends.",
+        "The journey of automotive innovation began with the creation of the Benz Patent-Motorwagen by Karl Benz in 1886, widely regarded as the first automobile powered by an internal combustion engine. This breakthrough paved the way for the mass production of automobiles, with Henry Ford's introduction of the assembly line in 1913 revolutionizing the manufacturing process and making cars more affordable for the average consumer.",
+        "Throughout the 20th century, the automotive industry witnessed significant milestones, including the introduction of electric starters, hydraulic brakes, and automatic transmissions. The 1950s and 1960s saw the rise of iconic American muscle cars, symbolizing power and freedom on the open road. Meanwhile, European manufacturers focused on engineering precision and luxury, epitomized by brands such as Mercedes-Benz and Rolls-Royce.",
+        "In response to environmental concerns and oil crises, the late 20th century brought about innovations in fuel efficiency and emissions control. Hybrid vehicles, combining internal combustion engines with electric motors, emerged as a viable solution to reduce carbon emissions and dependence on fossil fuels.",
+        "The 21st century has witnessed a rapid shift towards electric and autonomous vehicles, driven by advancements in battery technology and artificial intelligence. Companies like Tesla have spearheaded the electric vehicle revolution, offering high-performance cars with zero emissions. Concurrently, major automotive manufacturers are investing heavily in autonomous driving technology, aiming to enhance safety and efficiency on the roads.",
+        "The future of motoring promises further advancements, including the integration of renewable energy sources, enhanced connectivity, and the proliferation of shared mobility services. As the automotive industry continues to evolve, it will play a pivotal role in shaping the future of transportation and urban mobility.",
+    ],
+    "questions": [
+        {
+            "question": "Who is credited with inventing the first gasoline-powered automobile?",
+            "answers": [
+                {
+                    "text": "Karl Marx",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Karl Benz",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Henry Ford",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Thomas Edison",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "What innovation revolutionized the manufacturing process of automobiles in 1913?",
+            "answers": [
+                {
+                    "text": "Introduction of electric starters",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Development of automatic transmissions",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Implementation of the assembly line",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Invention of hydraulic brakes",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "What characterized the automotive industry in the 1950s and 1960s?",
+            "answers": [
+                {
+                    "text": "Rise of electric cars",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Focus on fuel efficiency",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Emergence of European luxury brands",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Popularity of American muscle cars",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "question": "What was a response to environmental concerns in the late 20th century?",
+            "answers": [
+                {
+                    "text": "Increased dependence on fossil fuels",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Reduction in emissions control",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Development of hybrid vehicles",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Focus on high-performance cars",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "question": "What is a major trend in the 21st-century automotive industry?",
+            "answers": [
+                {
+                    "text": "Shift towards steam-powered vehicles",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Emphasis on manual transmission cars",
+                    "isCorrect": false
+                },
+                {
+                    "text": "Rise of electric and autonomous vehicles",
+                    "isCorrect": true
+                },
+                {
+                    "text": "Decreased investment in renewable energy sources",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
